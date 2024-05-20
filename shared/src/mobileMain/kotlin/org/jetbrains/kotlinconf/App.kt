@@ -12,7 +12,8 @@ import com.seiko.imageloader.LocalImageLoader
 import org.jetbrains.kotlinconf.ui.theme.KotlinConfTheme
 import org.jetbrains.kotlinconf.ui.MainScreen
 
-const val apiEndpoint = "https://kotlinconf-app-prod.labs.jb.gg"
+// const val apiEndpoint = "https://kotlinconf-app-prod.labs.jb.gg"
+const val apiEndpoint = "http://localhost"
 
 @Composable
 fun App(context: ApplicationContext) {
