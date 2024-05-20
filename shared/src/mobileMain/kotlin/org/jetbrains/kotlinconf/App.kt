@@ -13,7 +13,7 @@ import org.jetbrains.kotlinconf.ui.theme.KotlinConfTheme
 import org.jetbrains.kotlinconf.ui.MainScreen
 
 // const val apiEndpoint = "https://kotlinconf-app-prod.labs.jb.gg"
-const val apiEndpoint = "http://localhost"
+const val apiEndpoint = "http://localhost:8080"
 
 @Composable
 fun App(context: ApplicationContext) {
