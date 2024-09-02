@@ -2,7 +2,7 @@
 
 # KotlinConf App
 
-This is the official KotlinConf App! We hope you enjoy(ed) the conference and sessions. This repository contains the source code of the application. 
+This is the official [KotlinConf](https://kotlinconf.com/) App! We hope you enjoy(ed) the conference and sessions. This repository contains the source code of the application. 
 
 All pieces of the application are implemented in *Kotlin*. Backend, frontend and mobile apps are Kotlin applications.
 Yes, Kotlin is powering all parts of the story. Did I already say that? Okay, let's get to the details:
